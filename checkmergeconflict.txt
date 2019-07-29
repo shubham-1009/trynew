@@ -1,2 +1,3 @@
 this file is for checking merge conflicts
 echo "added 3rd line from local system"
+this is second line edited by remote user
